@@ -21,20 +21,23 @@ RestoNext is a modern React Native mobile application that helps users discover 
 
 ## 📹 Demo Video
 
-Watch the app in action: [View Screen Recording](https://drive.google.com/file/d/1oKFOS5nKWdDXTLTsxtV8gi_W9_VSruwO/view?usp=sharing)
+Watch the app in action:
+
+- [View Screen Recording - Dark Mode](https://drive.google.com/file/d/1oKFOS5nKWdDXTLTsxtV8gi_W9_VSruwO/view?usp=sharing)
+- [View Screen Recording - Light Mode](https://drive.google.com/file/d/1ZNpTEkORDE_HfZmdYlp8sg3FgPuDZ2QU/view?usp=drive_link)
 
 ## Screenshots
 
 <table>
   <tr>
+   <td><img src="screen_shots/Screenshot_1771138332.png" width="250"/></td>
     <td><img src="screen_shots/Simulator Screenshot - iPhone 16 Pro - 2026-02-15 at 12.19.30.png" width="250"/></td>
-    <td><img src="screen_shots/Screenshot_1771138332.png" width="250"/></td>
     <td><img src="screen_shots/Simulator Screenshot - iPhone 16 Pro - 2026-02-15 at 12.19.43 2.png" width="250"/></td>
   </tr>
   <tr>
     <td align="center"><em>Splash Screen</em></td>
-    <td align="center"><em>Restaurant Map View</em></td>
-    <td align="center"><em>Restaurant Details</em></td>
+    <td align="center"><em>Restaurant Home Screen Dark Mode</em></td>
+    <td align="center"><em>Restaurant Home Screen Light Mode</em></td>
   </tr>
   <tr>
     <td><img src="screen_shots/Simulator Screenshot - iPhone 16 Pro - 2026-02-15 at 12.19.58.png" width="250"/></td>
@@ -42,9 +45,9 @@ Watch the app in action: [View Screen Recording](https://drive.google.com/file/d
     <td><img src="screen_shots/Simulator Screenshot - iPhone 16 Pro - 2026-02-15 at 12.20.09.png" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><em>Search Functionality</em></td>
-    <td align="center"><em>Custom Markers</em></td>
-    <td align="center"><em>Location Selection</em></td>
+    <td align="center"><em>Detail View</em></td>
+    <td align="center"><em>Splash Screen Dark Mode</em></td>
+    <td align="center"><em>Selected Location Selection</em></td>
   </tr>
   <tr>
     <td><img src="screen_shots/Simulator Screenshot - iPhone 16 Pro - 2026-02-15 at 12.20.46.png" width="250"/></td>
@@ -52,8 +55,8 @@ Watch the app in action: [View Screen Recording](https://drive.google.com/file/d
     <td></td>
   </tr>
   <tr>
-    <td align="center"><em>Dark Mode View</em></td>
-    <td align="center"><em>Additional Feature</em></td>
+    <td align="center"><em>Slected Location Detail View</em></td>
+    <td align="center"><em>Selected Location Selection Dark Mode</em></td>
     <td></td>
   </tr>
 </table>
