@@ -19,6 +19,10 @@ RestoNext is a modern React Native mobile application that helps users discover 
 - **Theme Support**: Beautiful light and dark mode support
 - **Custom Splash Screen**: Branded splash screen with 30-second auto-transition
 
+## 📹 Demo Video
+
+Watch the app in action: [View Screen Recording](https://drive.google.com/file/d/1oKFOS5nKWdDXTLTsxtV8gi_W9_VSruwO/view?usp=sharing)
+
 ## Screenshots
 
 <table>
