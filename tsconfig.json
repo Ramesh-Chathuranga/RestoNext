@@ -1,8 +1,31 @@
 {
   "extends": "@react-native/typescript-config",
   "compilerOptions": {
-    "types": ["jest"]
+    "types": [
+      "jest"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@module/*": [
+        "src/module/*"
+      ],
+      "@core/*": [
+        "src/core/*"
+      ],
+      "@component/*": [
+        "src/component/*"
+      ],
+      "@asset/*": [
+        "src/assets/*"
+      ]
+    }
   },
-  "include": ["**/*.ts", "**/*.tsx"],
-  "exclude": ["**/node_modules", "**/Pods"]
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/Pods"
+  ]
 }
